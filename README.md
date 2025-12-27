@@ -32,8 +32,16 @@ This GIS project assesses spatial accessibility to healthcare facilities in Mamp
 ## Preview
 ![Phase 1 vs Phase 2 Comparison](maps/Comparison_Map.png)
 
+## Data
+ processed geospatial data (shapefiles, GeoJSON) are **not included** in the repository due to file size and quantity.
+
+- **Sources**: OpenStreetMap (via QuickOSM), GADM boundaries
+- **Workflow**: Manual digitization of private facilities in QGIS using Google Maps basemap
+- **Contact me** (lawrencekofiamoako@gmail.com) if you need the data for replication.
+
 ## License
 MIT License — free to use and adapt.
 
 ---
+
 *Project completed as part of GIS studies.*
